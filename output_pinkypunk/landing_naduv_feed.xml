@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-08-06 14:19">
+  <shop>
+    <name>Секспедиция</name>
+    <company>Секспедиция</company>
+    <url>https://pinkypunk.ru/naduv</url>
+    <platform>Tilda</platform>
+    <version>1.0</version>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Секс-игрушки</category>
+    </categories>
+    <offers>
+      <offer id="1185870659" available="true">
+        <name>Надувная пробка на присоске «Прилипала»</name>
+        <vendor>Секспедиция</vendor>
+        <vendorCode>1185870659</vendorCode>
+        <price>2590</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://static.tildacdn.com/stor3334-6164-4566-b630-353166333435/3147489c905de00b42f0919bd53b89c1.jpg</picture>
+        <collectionId>1185870659</collectionId>
+        <url>https://pinkypunk.ru/naduv</url>
+        <description>Проект «Надувалы»</description>
+        <sales_notes>Официальный сайт Секспедиция.</sales_notes>
+        <custom_label_0>Надувная пробка на присоске «Прилипала»</custom_label_0>
+        <property name="Категория">Надувные пробки</property>
+        <property name="Бренд">Секспедиция</property>
+      </offer>
+      <offer id="1185870658" available="true">
+        <name>Надувная пробка «Одиночка» с металлическим шариком</name>
+        <vendor>Секспедиция</vendor>
+        <vendorCode>1185870658</vendorCode>
+        <price>2390</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://static.tildacdn.com/stor3964-3639-4035-a139-623138313965/f24dff7c825cd926e4eaee007381d0ad.jpg</picture>
+        <collectionId>1185870658</collectionId>
+        <url>https://pinkypunk.ru/naduv</url>
+        <description>Проект «Надувалы»</description>
+        <sales_notes>Официальный сайт Секспедиция.</sales_notes>
+        <custom_label_0>Надувная пробка «Одиночка» с металлическим шариком</custom_label_0>
+        <property name="Категория">Надувные пробки</property>
+        <property name="Бренд">Секспедиция</property>
+      </offer>
+      <offer id="1185870660" available="true">
+        <name>Надувная пробка «Большая Шишка» в форме члена</name>
+        <vendor>Секспедиция</vendor>
+        <vendorCode>1185870660</vendorCode>
+        <price>2990</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://static.tildacdn.com/stor3762-6531-4235-b831-386336346431/4cd6a985ff25dff9fb8a6bd1db74f6ca.jpg</picture>
+        <collectionId>1185870660</collectionId>
+        <url>https://pinkypunk.ru/naduv</url>
+        <description>Проект «Надувалы»</description>
+        <sales_notes>Официальный сайт Секспедиция.</sales_notes>
+        <custom_label_0>Надувная пробка «Большая Шишка» в форме члена</custom_label_0>
+        <property name="Категория">Надувные пробки</property>
+        <property name="Бренд">Секспедиция</property>
+      </offer>
+      <offer id="1185870657" available="true">
+        <name>Надувная пробка «Двойняшки» с двумя металлическими шариками</name>
+        <vendor>Секспедиция</vendor>
+        <vendorCode>1185870657</vendorCode>
+        <price>2590</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://static.tildacdn.com/stor3633-6135-4865-b138-663465373663/7d60269a0655529b82698f53f13f3c6b.jpg</picture>
+        <collectionId>1185870657</collectionId>
+        <url>https://pinkypunk.ru/naduv</url>
+        <description>Проект «Надувалы»</description>
+        <sales_notes>Официальный сайт Секспедиция.</sales_notes>
+        <custom_label_0>Надувная пробка «Двойняшки» с двумя металлическими шариками</custom_label_0>
+        <property name="Категория">Надувные пробки</property>
+        <property name="Бренд">Секспедиция</property>
+      </offer>
+    </offers>
+    <collections>
+      <collection id="1185870659">
+        <name>Надувная пробка на присоске «Прилипала»</name>
+        <url>https://pinkypunk.ru/naduv</url>
+        <picture>https://static.tildacdn.com/stor3334-6164-4566-b630-353166333435/3147489c905de00b42f0919bd53b89c1.jpg</picture>
+        <description>Проект «Надувалы»</description>
+      </collection>
+      <collection id="1185870658">
+        <name>Надувная пробка «Одиночка» с металлическим шариком</name>
+        <url>https://pinkypunk.ru/naduv</url>
+        <picture>https://static.tildacdn.com/stor3964-3639-4035-a139-623138313965/f24dff7c825cd926e4eaee007381d0ad.jpg</picture>
+        <description>Проект «Надувалы»</description>
+      </collection>
+      <collection id="1185870660">
+        <name>Надувная пробка «Большая Шишка» в форме члена</name>
+        <url>https://pinkypunk.ru/naduv</url>
+        <picture>https://static.tildacdn.com/stor3762-6531-4235-b831-386336346431/4cd6a985ff25dff9fb8a6bd1db74f6ca.jpg</picture>
+        <description>Проект «Надувалы»</description>
+      </collection>
+      <collection id="1185870657">
+        <name>Надувная пробка «Двойняшки» с двумя металлическими шариками</name>
+        <url>https://pinkypunk.ru/naduv</url>
+        <picture>https://static.tildacdn.com/stor3633-6135-4865-b138-663465373663/7d60269a0655529b82698f53f13f3c6b.jpg</picture>
+        <description>Проект «Надувалы»</description>
+      </collection>
+    </collections>
+  </shop>
+</yml_catalog>
